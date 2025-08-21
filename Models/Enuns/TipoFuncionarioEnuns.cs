@@ -4,7 +4,5 @@ namespace Aula03Colecoes.Models.Enuns
     {
         CLT=1, //Isso é a minha enumeração, cujo o CLT (minha enumeração) terá atributos.
         Aprendiz=2
-        
-        
     }
 }

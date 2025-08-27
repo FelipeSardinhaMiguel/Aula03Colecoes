@@ -1,4 +1,5 @@
-﻿using System;
+﻿//Feito por Felipe e Gustavo
+using System;
 using System.Data.Common;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography.X509Certificates;
